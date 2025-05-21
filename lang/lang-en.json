@@ -1,0 +1,40 @@
+{
+  "page_title": "Mirka Romppanen – RF Technician and Future ICT Engineer",
+  "meta_description": "Personal website of Mirka Romppanen – portfolio, RF tools, and frequency table viewer based on Traficom API.",
+
+  "site_title": "Frequency Table",
+  "language_label": "Language",
+
+  "nav_home": "Home",
+  "nav_about_author": "About the Author",
+  "nav_about": "About the Service",
+
+
+  "info_button": "ℹ️ Show instructions",
+  "info_button_hide": "ℹ️ Hide instructions",
+  "welcome_heading": "Welcome to the Frequency Table Service",
+  "intro_text": "This service provides an interface to the open frequency allocation table from the Finnish Transport and Communications Agency Traficom.",
+  "extra_info": "You can search for frequency ranges by entering a value and selecting the unit (kHz, MHz, GHz).",
+
+  "search-button": "Search",
+  "reset-button" : "Empty",
+
+  "status_loading": "Loading data...",
+  "status_success": "Data loaded successfully!",
+  "status_error": "Failed to load data.",
+
+  "table_col1": "Frequency band and use in Finland",
+  "table_col2": "Sub-bands (width) and use",
+  "table_col3": "Traffic mode / Transmission info",
+  "table_col4": "Remarks",
+
+  "info_text": "About",
+  "info_section_text": "This service uses open data from the Finnish Transport and Communications Agency Traficom. The official frequency allocation is regulated by the document known as <a href='https://www.traficom.fi/fi/saadokset/radiotaajuusmaarays-4' target='_blank' rel='noopener noreferrer'>Radio Frequency Regulation 4</a>.",
+
+  "info_construction": "Service is under development and may still change. Feedback can be sent to the author.",
+
+  "info_creator": "This page was created by Mirka Romppanen, RF technician and ICT engineering student. The service was built for educational and hobby use.",
+  "contact": "Contact:",
+  "footer_license": "Frequency data: Finnish Transport and Communications Agency Traficom, licensed under CC BY 4.0.",
+  "feedback_button": "✉️ Send feedback"
+}

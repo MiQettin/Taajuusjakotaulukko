@@ -1,0 +1,40 @@
+{
+  "page_title": "Mirka Romppanen – RF-asentaja ja tuleva tieto- ja tietoliikennetekniikan insinööri",
+  "meta_description": "Mirka Romppasen henkilökohtainen verkkosivusto: portfolio, RF-työkalut ja Traficomin taajuustaulukon selainpohjainen käyttöliittymä.",
+  
+  "site_title": "Taajuusjakotaulukko",
+  "language_label": "Kieli",
+  
+  "nav_home": "Etusivu",
+  "nav_about_author": "Tietoa tekijästä",
+  "nav_about": "Tietoa palvelusta",
+
+
+  "info_button": "ℹ️ Näytä ohjeet",
+  "info_button_hide": "ℹ️ Piilota ohjeet",
+  "welcome_heading": "Tervetuloa taajuusjakotaulukko-palveluun",
+  "intro_text": "Tämä palvelu tarjoaa käyttöliittymän Liikenne- ja viestintävirasto Traficomin avoimeen taajuusjakotaulukkoon.",
+  "extra_info": "Voit hakea taajuuksia kirjoittamalla taajuusarvon ja valitsemalla yksikön (kHz, MHz, GHz).",
+
+  "search-button": "Hae",
+  "reset-button" : "Tyhjennä",
+
+  "status_loading": "Ladataan dataa...",
+  "status_success": "Datan haku onnistui!",
+  "status_error": "Datan haku epäonnistui.",
+
+  "table_col1": "Taajuusalue ja käyttö Suomessa",
+  "table_col2": "Alikaista (leveys) ja käyttö",
+  "table_col3": "Liikennemuoto / Lähetetiedot",
+  "table_col4": "Huomautukset",
+
+  "info_text": "Tietoa",
+  "info_section_text": "Tämä palvelu hyödyntää Liikenne- ja viestintävirasto Traficomin avointa dataa radiotaajuuksista. Virallinen taajuusjako perustuu sääntelyyn, jota ohjaa <a href='https://www.traficom.fi/fi/saadokset/radiotaajuusmaarays-4' target='_blank' rel='noopener noreferrer'>Radiotaajuusmääräys 4</a>.",
+
+  "info_construction": "Palvelu on kehitysvaiheessa ja voi vielä muuttua. Palautetta voi lähettää tekijälle.",  
+
+  "info_creator": "Sivun on toteuttanut Mirka Romppanen, RF-asentaja ja tieto- ja tietoliikennetekniikan insinööriopiskelija. Palvelu on luotu opinnolliseen ja harrastekäyttöön",
+  "contact": "Yhteystiedot:",
+  "footer_license": "Taajuustiedot: Liikenne- ja viestintävirasto Traficom, lisenssi CC BY 4.0.",
+  "feedback_button": "✉️ Lähetä palautetta"
+}
