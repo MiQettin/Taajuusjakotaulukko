@@ -1,4 +1,3 @@
-# Deploy only /site contents to GitHub Pages
 name: Deploy static content from /site to GitHub Pages
 
 on:
@@ -22,16 +21,16 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload site directory
+      - name: Upload site folder
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './site'
+          path: './site'  # huolehdi, että tämä kansio on olemassa ja sisältää index.html
 
       - name: Deploy to GitHub Pages
         id: deployment
