@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
 function loadLanguage(lang) {
   document.documentElement.lang = lang;
 
-  fetch(`../lang/lang-${lang}.json`)
+  fetch(`/lang/lang-${lang}.json`)
     .then(response => {
       if (!response.ok) {
         throw new Error("Käännöstiedostoa ei löytynyt");
