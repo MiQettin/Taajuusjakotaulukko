@@ -30,7 +30,7 @@ jobs:
       - name: Upload site folder
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './site'  # huolehdi, että tämä kansio on olemassa ja sisältää index.html
+          path: './site'  #Updated
 
       - name: Deploy to GitHub Pages
         id: deployment
